@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "SmartHashtag",
   "pluginType": "platform",
   "singular": true,
   "schema": {
