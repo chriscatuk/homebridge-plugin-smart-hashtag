@@ -16,13 +16,13 @@
         "type": "string",
         "required": true,
         "default": "HESXXXXXXXXXXXXXX"
-      }
+      },
       "email": {
         "title": "email",
         "type": "string",
         "required": true,
         "default": "smart@gmail.com"
-      }
+      },
       "password": {
         "title": "password",
         "type": "string",
