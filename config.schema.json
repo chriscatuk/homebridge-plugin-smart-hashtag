@@ -21,7 +21,7 @@
         "title": "email",
         "type": "string",
         "required": true,
-        "default": "smart@gmail.com"
+        "default": "user@domain.com"
       },
       "password": {
         "title": "password",
